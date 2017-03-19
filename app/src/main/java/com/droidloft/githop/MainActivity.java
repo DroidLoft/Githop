@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    public void changeValue(){
+        int i = 2*2;
+    }
 }
